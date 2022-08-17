@@ -24,7 +24,7 @@ class Solution(object):
                 return i
         return -1
 
-
+"aacabdkacaa"
 ###KMP solution -> the best ###
 def strStr2(self, haystack, needle):
     """
