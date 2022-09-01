@@ -1,6 +1,6 @@
 ### 15. 3Sum 22/09/01
 
-###My Solution
+###My Solution after cheating
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
